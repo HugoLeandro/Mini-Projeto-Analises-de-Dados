@@ -1,6 +1,8 @@
 # Mini-Projeto-Analises-de-Dados
- Um mini projeto utilizando a biblioteca pandas com Python
+ Um mini projeto utilizando a biblioteca Pandas com Python.
+ 
  Fiz análises sobre:
+ 
  1 - Folha Salarial
  2 - Faturamento da Empresa
  3 - % Funcionários Fecharam Contrato
