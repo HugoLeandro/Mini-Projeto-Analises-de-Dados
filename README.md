@@ -1,5 +1,4 @@
 # Mini-Projeto-Analises-de-Dados
- Um mini projeto utilizando a biblioteca Pandas com Python.
  
  Fiz análises sobre:
  
